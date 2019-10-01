@@ -1,4 +1,4 @@
-
+[![Build Status](https://sisconsulting.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/build-pipeline?branchName=master)](https://sisconsulting.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
